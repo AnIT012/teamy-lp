@@ -1,7 +1,7 @@
 import Image from "next/image";
 
-const DESIGN = "https://github.com/annonymousIT/TeaMy-design";
-const GITHUB = "https://github.com/annonymousIT";
+const DESIGN = "https://github.com/AnIT012/TeaMy-design";
+const GITHUB = "https://github.com/AnIT012";
 
 const TEAM = [
   { name: "シズカ", role: "意思決定 / CEO", img: "shizuka", line: "数を追うより、まず定着する1件ね。" },
